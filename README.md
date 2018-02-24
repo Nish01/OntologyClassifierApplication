@@ -22,6 +22,8 @@ the application can be accessed in a terminal by changing to the root directory 
 To get the application to run, the Fact++ Description Logic Reasoner is required. This can be [downloaded](https://code.google.com/p/factplusplus/downloads/list) as a precompiled binary distribution for [Mac OSX](https://code.google.com/p/factplusplus/downloads/detail?name=FaCTpp-OSX-v1.6.2.zip&can=2&q=), [Linux](https://code.google.com/p/factplusplus/downloads/detail?name=FaCTpp-linux-v1.6.2.tgz&can=2&q=), or  [Windows](https://code.google.com/p/factplusplus/downloads/detail?name=FaCTpp-win-v1.6.2.zip&can=2&q=).
 
 Once this is downloaded, the relevant .dll or .jnilib file will need to be added to the java.library.path.
+Mac users copy it to: System/Library/Java/Extensions.
+Windows users to: C:/Windows/System32/.
 
 One way to do this is to specify the path of the file when launching the Play Framework:
 ```
