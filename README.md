@@ -1,4 +1,4 @@
-The Web Ontology Classifier is developed using Play Frameworks and Java.
+The Web Ontology Classifier is developed using [Play Frameworks](http://www.playframework.com/) and Java.
 
 Before checking out the source code, make sure that Java (JDK 6 or 7) is installed, and download and install the latest Classic Distribution (Standalone version) of Play Frameworks.
 
